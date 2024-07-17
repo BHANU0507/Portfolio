@@ -901,8 +901,8 @@ main {
 
 
 .client-logo {
-  width: 200px;
-  height: 150px;
+  width: 160px;
+  height: 110px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -910,7 +910,7 @@ main {
 .client-title {
   display: inline-block;
   vertical-align: middle;
-  margin-left: 10px;
+  margin-left: 3px;
 }
 
 
